@@ -1,4 +1,4 @@
-bucket
+*.mp4
 dist
 build
 node_modules
